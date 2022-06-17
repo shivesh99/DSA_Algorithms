@@ -1,2 +1,2 @@
-# DSA_Alorithms
+# DSA_Algorithms
 DSA and leetcode solutions
